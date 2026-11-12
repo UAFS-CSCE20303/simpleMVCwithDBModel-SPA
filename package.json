@@ -1,0 +1,25 @@
+{
+  "name": "simplemvcwithdbmodel-spa",
+  "version": "1.0.0",
+  "description": "Conversion of the Simple MVC with DB to a SPA with Web API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UAFS-CSCE20303/simpleMVCwithDBModel-SPA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UAFS-CSCE20303/simpleMVCwithDBModel-SPA/issues"
+  },
+  "homepage": "https://github.com/UAFS-CSCE20303/simpleMVCwithDBModel-SPA#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "mysql2": "^3.24.6"
+  }
+}
